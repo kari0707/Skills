@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Skills:jar">
+    <output-path>$USER_HOME$/Desktop/ORIGENAL/마인크래프트/SERVER/Gloria-DEV/plugins</output-path>
+    <root id="archive" name="Skills.jar">
+      <element id="module-output" name="Skills.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,20 @@
+Format: ""
+Event-Auto-Enable: false
+
+SKILL-SLOT:
+  Name: "스킬 슬롯"
+  Icon: "gray_dye"
+  Lore:
+    - ''
+
+SKILL-INIT:
+  Name: "초기화"
+  Icon: "heart_of_the_sea"
+  Lore:
+    - '§7클릭시 스킬 슬롯이 초기화됩니다.'
+
+SKILL-LINE:
+  Name: ""
+  Icon: "gray_stained_glass_pane"
+  Lore:
+    - ''
